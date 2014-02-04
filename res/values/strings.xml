@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Classmate</string>
+    <string name="title_party_detail">Party Detail</string>
+    <string name="title_login">Login</string>
+    <string name="header_rsvp_user">Who</string>
+    <string name="header_rsvp_rsvp">RSVP</string>
+    <string name="label_rsvp">Your RSVP: </string>
+    <string name="rsvp_yes">I\'m Going!</string>
+    <string name="rsvp_maybe">Maybe</string>
+    <string name="rsvp_no">No</string>
+    <string name="login_for_rsvp">Please Login to RSVP</string>
+    <string name="welcome_message">Get. Insanely. Productive.</string>
+    <string name="button_my_tasks">My Tasks</string>
+    <string name="button_new_task">Add New Task</string>
+    <string name="title_activity_my_tasks">My Tasks</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_date_picker_fragment">DatePickerFragment</string>
+    <string name="title_activity_new_task">Create New Task</string>
+    <string name="new_task_title">Title</string>
+    <string name="hint_new_task_title">Title</string>
+    <string name="new_task_time">Time needed to complete</string>
+    <string name="new_task_hours">Hour(s)</string>
+    <string name="new_task_minutes">Minute(s)</string>
+    <string name="new_task_appeal">Appeal</string>
+    <string name="new_task_hate">Hate</string>
+    <string name="new_task_love">Love</string>
+    <string name="button_new_task_submit">Submit</string>
+    <string name="add_task_date">Due Date:</string>
+    <string name="add_task_pick_date">Change</string>
+    <string name="task_delete">Delete</string>
+    <string name="course_tasks">Tasks</string>
+    <string name="task_name_placeholder">My Task</string>
+    <string name="action_add_course">Add Course</string>
+    <string name="title_activity_edit_task">Edit Task</string>
+    <string name="title_activity_main">Classmate</string>
+    <string name="title_section_my_courses">My Courses</string>
+    <string name="title_section_upcoming_tasks">Upcoming Tasks</string>
+    <string name="title_section_my_account">My Account</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_add_course">Available Courses</string>
+    <string name="no_courses_string">You aren\'t enrolled in any courses\!</string>
+    <string name="title_activity_test_tab">TestTabActivity</string>
+    <string name="action_add_task">Add Task</string>
+    <string name="action_submit_task">Submit</string>
+    <string name="add_task_header">Add task for course </string>
+    <string name="add_task_notes">Notes:</string>
+	<string name="my_account_header">My Account</string>
+	<string name="my_account_school_tag">School:</string>
+	<string name="my_account_email_tag">Email Address:</string>
+	<string name="action_logout">Logout</string>
+	<string name="action_edit_task">Edit</string>
+	<string name="task_detail_notes_tag">Notes:</string>
+	<string name="edit_task_header">Edit task for course </string>
+	<string name="action_edit_task_submit">Submit</string>
+	<string name="action_remove_course">Remove course</string>
+	
+</resources>

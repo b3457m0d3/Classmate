@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <!-- Create a new task, should appear as action button -->
+    <item android:id="@+id/action_add_course"
+          android:icon="@drawable/ic_action_new"
+          android:title="@string/action_add_course"
+          android:showAsAction="always" />
+    
+    <item android:id="@+id/action_remove_course"
+          android:icon="@drawable/ic_action_discard"
+          android:title="@string/action_remove_course"
+          android:showAsAction="always" />
+</menu>
